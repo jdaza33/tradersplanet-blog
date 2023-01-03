@@ -22,7 +22,7 @@
     "nodemailer": "^6.1.1",
     "nodemailer-sendgrid": "^1.0.3",
     "nprogress": "^0.2.0",
-    "nuxt": "^2.10.1",
+    "nuxt": "^2.15.8",
     "path": "^0.12.7",
     "promise-fs": "^2.1.0",
     "stripe": "^7.4.0",
@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.4.0",
-    "@vue/cli-service": "^3.4.0",
+    "@vue/cli-service": "^5.0.8",
     "node-sass": "^4.9.0",
     "sass-loader": "^7.1.0",
     "vue-template-compiler": "^2.6.10"
